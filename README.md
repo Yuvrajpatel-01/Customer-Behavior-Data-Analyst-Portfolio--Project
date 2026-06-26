@@ -128,6 +128,8 @@ The Power BI dashboard provides:
 
 ---
 
+<img width="1336" height="703" alt="Screenshot 2026-06-26 133425" src="https://github.com/user-attachments/assets/aa99db72-d05e-4b90-8ee1-7018635a3b2d" />
+
 ## How to Run
 
 1. Clone this repository.
